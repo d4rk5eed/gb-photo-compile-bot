@@ -1,0 +1,6 @@
+.env
+.prodenv
+__pycache__/
+*.log
+*.session
+*.session-journal
